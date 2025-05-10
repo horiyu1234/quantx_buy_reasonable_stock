@@ -1,5 +1,4 @@
 ############################################################################
-# Sample Algorithm
 
 import pandas as pd
 import pandas.tseries.offsets as offsets
